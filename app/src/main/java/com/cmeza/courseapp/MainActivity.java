@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     SharedPreferences.Editor editor;
     TextView tv;
     String url="api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}";
-    String apikey="97757d0adf66f65d8137d2b1bcbc274c";
+    String apikey="Yourapikey from openweathermap";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
